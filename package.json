@@ -1,0 +1,6 @@
+{
+  "name": "one-on-one-feedback",
+  "dependencies": { "react": "^18", "react-dom": "^18" },
+  "scripts": { "build": "vite build", "dev": "vite" },
+  "devDependencies": { "vite": "^5", "@vitejs/plugin-react": "^4" }
+}
